@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.autoClosingQuotes": "always",
+    "workbench.preferredLightColorTheme": "Default High Contrast",
+    "workbench.preferredHighContrastLightColorTheme": "Default High Contrast",
+    "workbench.preferredDarkColorTheme": "Default High Contrast"
+}
