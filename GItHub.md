@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F700&center=true&vCenter=true&width=435&lines=Sejam+Bem+Vindos!;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F700&center=true&vCenter=true&width=1000&lines=S+e+j+a+m+_+B+e+m+_+V+i+n+d+o+s+!.+.+.;B+e+_+W+e+l+c+o+m+e+!+.+.+.)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00F7F7FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F700&center=true&vCenter=true&width=435&lines=Eu+sou+Pablo+Rodrigo;I'm+Pablo+Rodrigo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F700&center=true&vCenter=true&width=1000&lines=E+u+_+s+o+u+_+P+a+b+l+o+_+R+o+d+r+i+g+o+.+.+.;I+_+a+m+_+P+a+b+l+o+_+R+o+d+r+i+g+o+.+.+.)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Computador iuriCode">
 
 ```js
 // Hello world in JavaScript
@@ -39,11 +39,9 @@ fun main() {
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F700&center=true&vCenter=true&width=510&height=51&lines=Eu+sou+Estudante+de+Engenharia+de+Software;I+am+a+software+Enginier+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F700&center=true&vCenter=true&width=1200&height=51&lines=E+u+_+s+o+u+_+E+s+t+u+d+a+n+t+e+_+d+e+_+E+n+g+e+n+h+a+r+i+a+_+d+e+_+S+o+f+t+w+a+r+e+.+.+.;I+_+a+m+_+a+_+s+o+f+t+w+a+r+e+_+E+n+g+i+n+i+e+r+_+S+t+u+d+e+n+t+.+.+.)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=199500FF&height=120&section=footer"/>
-
-<img width=100% src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000E6CFF&height=120&section=header"/>
 
