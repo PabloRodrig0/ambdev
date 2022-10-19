@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Shadows+Into+Light&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Silkscreen&display=swap');
 
 *{
     margin: 0 auto;
@@ -27,30 +27,64 @@ body{
     padding: 20px;
     display: inline-block;
     text-decoration: none;
-    transition: 500ms;
     font-family: 'Silkscreen', cursive;
 }
 
 #menu-h ul li a:hover{
+    transition: 300ms;
+    color:rgb(240, 0, 255);
     background-color: rgb(0, 0, 255);
-    color: rgb(255, 0, 255);
+    border-radius: 5px;
 }
 
-#menu-h p{
-    font-size: 20px;
-    font-weight: bold;
-    font-family: "Inter", sans-serif;
+#menu-h h1{
+    font-family: 'Silkscreen', cursive;
+    font-size: 22px;
     letter-spacing: 1px;
-    color: rgb(0, 0, 255);
+    color:rgb(240, 0, 255);
+    margin-left: 3%;
 }
 
-#menu-h p:hover{
-    color: rgb(255, 255, 0);
+body h2{
+    font-size: 25px;
+    font-family: 'Silkscreen', cursive;
+    letter-spacing: 4px;
+    color: rgb(0, 255, 0);
+    text-align: center;
 }
+
+#menu-h h3{
+    margin-left: 4%;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 18px;
+    color: white;
+}
+
+#setup{
+    width: 55%;
+    margin-left: 47%;
+}
+#monitor{
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+
+footer p{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    color: white;
+}
+footer p a{
+    font-family: 'Silkscreen', cursive;
+    font-size: 30px;
+    color:rgb(240, 0, 255);
+}
+
 /*
-font-family: 'Cormorant Garamond', serif;
-titulo
 font-family: 'Shadows Into Light', cursive;
 assinatura de desenvolvimento
 font-family: 'Silkscreen', cursive;
-texto de programação
+texto de programação */
