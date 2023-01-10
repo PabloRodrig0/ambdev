@@ -12,7 +12,7 @@
   <title>Pablo Rodrigo</title>
 </head>
 <body>
-  <header>
+  <header id="inicio">
     <nav id = "menu-h">
       <ul>
         <div id="name">
@@ -25,50 +25,55 @@
         </div>
         <div id="menu">
           <li>
-            <a href="#">Inicio</a>
+            <a href="#inicio">Inicio</a>
           </li>
           <li>
-            <a href="#">Sobre_mim</a>
+            <a href="#sobremim">Sobre_mim</a>
           </li>
           <li>
-            <a href="#">Projetos</a>
+            <a href="#projetos">Projetos</a>
           </li>
           <li>
-            <a href="#">Conhecimentos</a>
+            <a href="#conhecimentos">Conhecimentos</a>
           </li>
         </div>
       </ul>
     </nav>
   </header>
-  <div>
-    <img id="setup" src="setup.jpg" alt="Setup_de_Desenvolvimento">
+  <div id="codigo">
     <div id="box1" class="descricion">
       <p>
-        // Hello world in JavaScript
-        <p>console.log(<p class="hello">"Hello World"</p>)</p>;
+        // Hello world in JavaScript<br> 
+        console.log("Hello World");
       </p>
     </div>
     <div id="box2" class="descricion">
       <p>
-        # Hello world in Python
-        <p>print(<p class="hello">"Hello World"</p>)</p>
+        # Hello world in Python<br>
+        print("Hello World")
       </p>
     </div>
     <div id="box3" class="descricion">
       <p>
-        // Hello world in Kotlin
-        <p>
-          fun main() {
-              <p>println(<p class="hello">"Hello World"</p>)</p>}
-        </p>
+        // Hello world in Kotlin<br>
+          fun main() {<br>
+            println("Hello World")<br>
+          }
       </p>
     </div>
   </div>
+  <img id="setup" src="setup.jpg" alt="Setup_de_Desenvolvimento">
   <img id="perfil" src="Perfil.jpg" alt="foto_de_perfil">
-  <h2>Sobre_mim</h2>
-  <img id="monitor" src="monitor.png" alt="Monitor">
-  <h2>Projetos</h2>
-  <h2>Conhecimentos</h2>
+  <section id="sobremim">
+    <h2>Sobre_mim</h2>
+    <img id="monitor" src="monitor.png" alt="Monitor">
+  </section>
+  <section id="projetos">
+    <h2>Projetos</h2>
+  </section>
+  <section id="conhecimentos">
+    <h2>Conhecimentos</h2>
+  </section>
   <footer>
     <p>
       Desenvolvido por 
